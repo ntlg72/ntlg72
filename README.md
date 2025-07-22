@@ -13,7 +13,6 @@
 - Data Science, Machine Learning, and Deep Learning  
 - Cloud-native data engineering (Docker, Kafka, Spark)  
 - Python workflows for modeling and analysis  
-- Git strategies and version control best practices  
 
 ---
 
